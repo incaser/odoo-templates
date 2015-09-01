@@ -15,9 +15,10 @@
     ],
     'js': [
     ],
-    'author': 'Antiun Ingeniería S.L., '
+    'author': 'Incaser Informatica S.L., '
+              'Antiun Ingeniería S.L., '
               'Odoo Community Association (OCA)',
-    'website': 'http://www.antiun.com',
+    'website': 'http://www.incaser.es',
     'license': 'AGPL-3',
     'demo': [],
     'test': [],

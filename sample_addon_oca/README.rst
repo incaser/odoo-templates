@@ -78,8 +78,9 @@ Credits
 Contributors
 ------------
 
+* Carlos Dauden <carlos@incaser.es>
+* Sergio Teruel <sergio@incaser.es>
 * Rafael Blasco <rafabn@antiun.com>
-* Antonio Espinosa <antonioea@antiun.com>
 
 Maintainer
 ----------
