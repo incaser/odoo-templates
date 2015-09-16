@@ -78,9 +78,10 @@ Credits
 Contributors
 ------------
 
+* Rafael Blasco <rafabn@antiun.com>
+* Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>
 * Carlos Dauden <carlos@incaser.es>
 * Sergio Teruel <sergio@incaser.es>
-* Rafael Blasco <rafabn@antiun.com>
 
 Maintainer
 ----------
